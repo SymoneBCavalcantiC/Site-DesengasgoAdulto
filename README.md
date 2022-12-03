@@ -2,7 +2,8 @@
 
 Este repositório contém os arquivos produzidos para construção do Site Desengasgo de Adultos, 
 requisito para aprovação na disciplina 'Projeto Integrador I - Front End I, do professor Ms.Angelo Francescoly,
-UNIESP 2022.2, P1B Noite. Desenvolvido em Nov-Dez/2022.
+UNIESP 2022.2, P1B Noite. 
+Desenvolvido em Nov-Dez/2022.
 Participam desde projeto os alunos: Endi Rayanna, Felipe Cavalcanti, Igor Valente e Symone Cavalcanti.
 
 O site é formado por 6 páginas:
